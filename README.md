@@ -1,63 +1,62 @@
 # Hi 👋, I'm Prajna Pai
 
-### Frontend Developer | React.js | JavaScript | AI Enthusiast
+### Frontend Developer | React.js | JavaScript | Learning AI-Powered Development
 
-I'm a Frontend Developer with 3+ years of experience building responsive and scalable web applications using React.js and JavaScript.
+I'm a passionate Frontend Developer with around 3+ years of experience building responsive, user-friendly web applications using React.js and JavaScript.
 
-Currently focusing on:
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- Next.js
-- AI-powered Web Applications
-- Jest & React Testing Library
+I am actively rebuilding my portfolio by developing real-world projects and expanding my skills in AI-assisted software development.
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- ⚛️ React.js Specialist
+- 📚 Currently learning AI tools for software development
+- 🌱 Exploring Next.js, TypeScript and Node.js
+- 🎯 Looking for Software Development opportunities
+
+## 🛠 Tech Stack
 
 Frontend
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
 - HTML5
 - CSS3
-- Tailwind CSS
-- Material UI
-
-State Management
+- JavaScript (ES6+)
+- React.js
 - Redux Toolkit
-- Context API
-
-Testing
-- Jest
-- React Testing Library
+- React Router
 
 Backend
 - Node.js
 - Express.js
+- REST APIs
 
 Database
 - MongoDB
 - Firebase
+
+Testing
+- Jest
+- React Testing Library
 
 Tools
 - Git
 - GitHub
 - VS Code
 - Postman
-- Vercel
+- Figma
 
-## 🌱 Currently Learning
+## 📈 Current Focus
 
-- AI Integration
-- OpenAI APIs
-- LangChain
-- Prompt Engineering
+✔ Advanced React Patterns
+
+✔ TypeScript
+
+✔ AI Development Tools
+
+✔ Clean Architecture
+
+✔ Performance Optimization
 
 ## 📫 Connect with me
 
-LinkedIn:
-Portfolio:
-Email:
 
-⭐ Always learning something new.
+Email:prajnapai26@gmail.com
