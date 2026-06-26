@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Prajna Pai
 
-<!--
-**PrajnaPaiP/PrajnaPaiP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js | JavaScript | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Frontend Developer with 3+ years of experience building responsive and scalable web applications using React.js and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- Next.js
+- AI-powered Web Applications
+- Jest & React Testing Library
+
+## 🚀 Tech Stack
+
+Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
+
+State Management
+- Redux Toolkit
+- Context API
+
+Testing
+- Jest
+- React Testing Library
+
+Backend
+- Node.js
+- Express.js
+
+Database
+- MongoDB
+- Firebase
+
+Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+
+## 🌱 Currently Learning
+
+- AI Integration
+- OpenAI APIs
+- LangChain
+- Prompt Engineering
+
+## 📫 Connect with me
+
+LinkedIn:
+Portfolio:
+Email:
+
+⭐ Always learning something new.
