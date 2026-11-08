@@ -6,8 +6,8 @@ I'm a Software Engineer with **3+ years of experience in web development**, spec
 
 I primarily work with React.js, JavaScript, TypeScript, Node.js, Laravel, and MySQL. I'm also expanding my backend development skills with **Java and Spring Boot**.
 
-- 💻 3.6 years of professional software development experience.
-- ⚛️ Experienced in React.js, JavaScript, and TypeScript.
+- 💻 3+ years of professional software development experience.
+- ⚛️ Experienced in React.js and JavaScript.
 - 🔧 Backend experience with Node.js and Laravel.
 - ☕ Currently strengthening Java and Spring Boot skills.
 - 🗄️ Experience working with MySQL and REST APIs.
@@ -21,7 +21,6 @@ I primarily work with React.js, JavaScript, TypeScript, Node.js, Laravel, and My
 **Frontend Development**
 - React.js
 - JavaScript (ES6+)
-- TypeScript
 - HTML5, CSS3
 - Redux, Redux Toolkit, React Hooks
 - Bootstrap, Tailwind CSS, Material UI
@@ -36,7 +35,6 @@ I primarily work with React.js, JavaScript, TypeScript, Node.js, Laravel, and My
 **Databases**
 - MySQL
 - PostgreSQL
-- MongoDB
 
 **Tools & Technologies**
 - Git & GitHub
@@ -80,21 +78,5 @@ A cloud-based performance management application with role-based workflows.
 - Excel/PDF reporting.
 - Automated email notifications.
 
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajnaPaiP&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajnaPaiP&layout=compact&theme=github_dark)
-
----
-
-### 🤝 Connect With Me
-
-- 💼 LinkedIn: [Add Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 📧 Email: [Add Your Professional Email](mailto:YOUR_EMAIL)
-
----
 
 ⭐ Thanks for visiting my GitHub profile!
