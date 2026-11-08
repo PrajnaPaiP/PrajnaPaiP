@@ -1,62 +1,100 @@
-# Hi 👋, I'm Prajna Pai
+# Hi, I'm Prajna Pai! 👋
 
-### Frontend Developer | React.js | JavaScript | Learning AI-Powered Development
+### Software Engineer | React.js Developer | Full Stack Developer
 
-I'm a passionate Frontend Developer with around 3+ years of experience building responsive, user-friendly web applications using React.js and JavaScript.
+I'm a Software Engineer with **3+ years of experience in web development**, specializing in building responsive, scalable, and user-friendly web applications.
 
-I am actively rebuilding my portfolio by developing real-world projects and expanding my skills in AI-assisted software development.
+I primarily work with React.js, JavaScript, TypeScript, Node.js, Laravel, and MySQL. I'm also expanding my backend development skills with **Java and Spring Boot**.
 
-## 🚀 About Me
+- 💻 3.6 years of professional software development experience.
+- ⚛️ Experienced in React.js, JavaScript, and TypeScript.
+- 🔧 Backend experience with Node.js and Laravel.
+- ☕ Currently strengthening Java and Spring Boot skills.
+- 🗄️ Experience working with MySQL and REST APIs.
+- 🚀 Interested in building scalable full-stack applications.
+- 📚 Continuously learning and improving my technical skills.
 
-- 💻 Frontend Developer
-- ⚛️ React.js Specialist
-- 📚 Currently learning AI tools for software development
-- 🌱 Exploring Next.js, TypeScript and Node.js
-- 🎯 Looking for Software Development opportunities
+---
 
-## 🛠 Tech Stack
+### 🛠️ Technical Skills
 
-Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+**Frontend Development**
 - React.js
-- Redux Toolkit
-- React Router
+- JavaScript (ES6+)
+- TypeScript
+- HTML5, CSS3
+- Redux, Redux Toolkit, React Hooks
+- Bootstrap, Tailwind CSS, Material UI
 
-Backend
-- Node.js
-- Express.js
-- REST APIs
+**Backend Development**
+- Node.js, Express.js
+- PHP, Laravel
+- Java
+- Spring Boot, Spring Data JPA
+- RESTful APIs
 
-Database
+**Databases**
+- MySQL
+- PostgreSQL
 - MongoDB
-- Firebase
 
-Testing
-- Jest
-- React Testing Library
-
-Tools
-- Git
-- GitHub
-- VS Code
+**Tools & Technologies**
+- Git & GitHub
 - Postman
-- Figma
+- VS Code
+- IntelliJ IDEA
+- Swagger / OpenAPI
+- JUnit 5, Mockito
 
-## 📈 Current Focus
+---
 
-✔ Advanced React Patterns
+### 🚀 Featured Projects
 
-✔ TypeScript
+#### 1. Employee Management System
+**Java | Spring Boot | Spring Data JPA | MySQL**
 
-✔ AI Development Tools
+A backend application developed to manage employee information through RESTful APIs.
 
-✔ Clean Architecture
+**Key Features:**
+- Employee CRUD operations.
+- DTO-based request and response handling.
+- Input validation and exception handling.
+- Duplicate email validation.
+- Employee search functionality.
+- Pagination and sorting.
+- Swagger API documentation.
+- Unit testing using JUnit 5 and Mockito.
 
-✔ Performance Optimization
+🔗 [View Project on GitHub](https://github.com/PrajnaPaiP/employee-management-system)
 
-## 📫 Connect with me
+#### 2. Performance Management System
+**React.js | Laravel | MySQL**
 
+A cloud-based performance management application with role-based workflows.
 
-Email:prajnapai26@gmail.com
+**Key Features:**
+- Admin, Manager, and Employee dashboards.
+- Employee and task management.
+- Attendance and performance tracking.
+- REST API integration.
+- Excel/PDF reporting.
+- Automated email notifications.
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajnaPaiP&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajnaPaiP&layout=compact&theme=github_dark)
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 LinkedIn: [Add Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 📧 Email: [Add Your Professional Email](mailto:YOUR_EMAIL)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
